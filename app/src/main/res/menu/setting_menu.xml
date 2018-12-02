@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/setting_menu_item"
+        android:checkable="false"
+        android:enabled="true"
+        android:title="設定"
+        android:visible="true" />
+    <item
+        android:id="@+id/kannei_menu_item"
+        android:title="甘寧一番乗り" />
+</menu>
